@@ -56,12 +56,6 @@ body {
   padding-top: 5%;
 }
 
-.address-panel {
-  width: 100%;
-  text-align: center;
-  font-weight: lighter;
-}
-
 .header-text {
   font-family: "Londrina Solid", cursive;
   color: white;
@@ -88,7 +82,7 @@ body {
   color: #ff6f61;
 }
 
-.hours-panel {
+.text-panel {
   width: 100%;
   text-align: center;
   font-weight: lighter;
@@ -223,10 +217,6 @@ color: #d4edec  limpet shell
     flex-direction: row;
   }
 
-  .address-panel {
-    width: 34%;
-  }
-
   .header-text {
     font-size: 1.5rem;
   }
@@ -239,7 +229,7 @@ color: #d4edec  limpet shell
     font-size: 2rem;
   }
 
-  .hours-panel {
+  .text-panel {
     width: 34%;
   }
 }

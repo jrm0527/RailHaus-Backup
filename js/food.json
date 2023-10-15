@@ -42,7 +42,7 @@
   {
     "type": "burger",
     "name": "The Standard",
-    "detail": "Half pound burger, muenster, lettuce tomato, red onion, Haus sauce"
+    "detail": "Half pound burger, muenster, lettuce, tomato, red onion, Haus sauce"
   },
   {
     "type": "burger",
@@ -92,7 +92,7 @@
   {
     "type": "starter",
     "name": "Party Board",
-    "detail": "Three sausages, pretzel bites, fried pickles, sauerkraut muti grain mustard, cheese sauce"
+    "detail": "Three sausages, pretzel bites, fried pickles, sauerkraut multi grain mustard, cheese sauce"
   },
   {
     "type": "starter",
@@ -107,7 +107,7 @@
   {
     "type": "starter",
     "name": "Herb Sidewinders Fries",
-    "detail": "Muti grain mustard, cheese sauce"
+    "detail": "Multi grain mustard, cheese sauce"
   },
   {
     "type": "dessert",
